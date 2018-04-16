@@ -874,7 +874,9 @@
         <editable>true</editable>
         <field>Account.EmailField__c</field>
         <readable>true</readable>
-    </fieldPermissions><recordTypeVisibilities>
+    </fieldPermissions><layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments><recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
