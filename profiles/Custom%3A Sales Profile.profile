@@ -862,7 +862,9 @@
         <editable>true</editable>
         <field>Account.EmailField__c</field>
         <readable>true</readable>
-    </fieldPermissions><objectPermissions>
+    </fieldPermissions><layoutAssignments>
+        <layout>Campaign-Campaign Layout</layout>
+    </layoutAssignments><objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>

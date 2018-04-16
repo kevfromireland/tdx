@@ -880,6 +880,8 @@
         <readable>true</readable>
     </fieldPermissions><layoutAssignments>
         <layout>Account-Account Layout</layout>
+    </layoutAssignments><layoutAssignments>
+        <layout>Campaign-Campaign Layout</layout>
     </layoutAssignments><recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
